@@ -18,3 +18,4 @@ def person_1_2(name):
 
 person_1("Chef")
 person_2("food", "drinks", "dessert","name")
+person_1_2("Chef")
